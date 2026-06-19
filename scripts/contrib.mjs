@@ -84,7 +84,7 @@ function build(name) {
   const ambient = `<rect y="${barY}" width="64" height="${barH}" fill="url(#amb-${name})"><animate attributeName="x" values="${LEFT - 64};${gridRight}" dur="6s" begin="${buildEnd}s" repeatCount="indefinite" calcMode="linear"/><animate attributeName="opacity" values="0;0.12;0" keyTimes="0;0.5;1" dur="6s" begin="${buildEnd}s" repeatCount="indefinite"/></rect>`;
 
   const totalStr = total.toLocaleString('en-US');
-  return `<svg width="100%" viewBox="0 0 ${W} ${H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${totalStr} contributions in the last year">
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${totalStr} contributions in the last year">
   <defs>
     <linearGradient id="amb-${name}" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="${t.sweep}" stop-opacity="0"/>
