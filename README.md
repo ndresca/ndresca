@@ -40,7 +40,11 @@ Reads every new Google review and posts a reply in your brand voice — automati
 
 #### ❯ CONTRIBUTIONS
 
-[![Andrés's contribution graph](https://ghchart.rshah.org/FF5A36/ndresca)](https://github.com/ndresca)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndresca/ndresca/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndresca/ndresca/output/snake.svg">
+  <img alt="Andrés's contribution graph as a snake game" src="https://raw.githubusercontent.com/ndresca/ndresca/output/snake.svg" width="100%">
+</picture>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
