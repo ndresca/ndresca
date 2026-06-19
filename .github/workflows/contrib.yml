@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Contribution Graph
 
 on:
   schedule:
@@ -15,13 +15,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-light&color_snake=#FF5A36&color_dots=#ebedf0,#ffd0bf,#ff9e7d,#ff6a3d,#e8431d
-            dist/snake-dark.svg?palette=github-dark&color_snake=#FF5A36&color_dots=#161b22,#5a2316,#a3381f,#e8502b,#ff7a4f
+          node-version: 20
+
+      - name: Build contribution graph
+        run: node scripts/contrib.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
