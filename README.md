@@ -1,21 +1,19 @@
-<!-- ───────────────────────────  HERO  ─────────────────────────── -->
+<!-- ──────────────────────────────  HERO  ────────────────────────────── -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Andrés Casanova-Aleman — founder and engineer, building Propiedash" src="./assets/header-light.svg" width="100%">
-</picture>
+<img src="./assets/banner.svg" width="100%" alt="Andrés Casanova-Aleman — founder and engineer, building Propiedash">
 
-⚡ &nbsp; **Ship relentlessly.**
+<p align="left">
+  <a href="https://propiedash.com"><img src="https://img.shields.io/badge/propiedash.com-0a0a0a?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://x.com/CasanovaAleman"><img src="https://img.shields.io/badge/@CasanovaAleman-0a0a0a?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/andres-casanova-aleman"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:andres@casanova-aleman.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Website](https://img.shields.io/badge/propiedash.com-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://propiedash.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ndresca)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:andres@casanova-aleman.com)
+<img src="./assets/divider.svg" width="100%" alt="">
 
-<br>
+<!-- ────────────────────────────  BUILDING  ──────────────────────────── -->
 
-<!-- ─────────────────────────  BUILDING  ───────────────────────── -->
-
-#### BUILDING
+#### ❯ BUILDING
 
 <table>
 <tr>
@@ -36,26 +34,22 @@ Reads every new Google review and posts a reply in your brand voice — automati
 </tr>
 </table>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-<!-- ──────────────────────  CONTRIBUTIONS  ─────────────────────── -->
+<!-- ──────────────────────────  CONTRIBUTIONS  ────────────────────────── -->
 
-#### CONTRIBUTIONS
+#### ❯ CONTRIBUTIONS
 
 [![Andrés's contribution graph](https://ghchart.rshah.org/FF5A36/ndresca)](https://github.com/ndresca)
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="">
 
-<!-- ────────────────────────────  ALWAYS  ──────────────────────── -->
+<!-- ────────────────────────────  ALWAYS  ────────────────────────────── -->
 
-#### ALWAYS
+#### ❯ ALWAYS
 
 AI-native operator. I run a small team like an orchestra — decompose, delegate, and ship every day. Always building, always learning, always raising the bar.
 
-<br>
-
-<!-- ─────────────────────────  LET'S BUILD  ────────────────────── -->
-
-#### LET'S BUILD
+#### ❯ LET'S BUILD
 
 If you're building something ambitious, find me at [propiedash.com](https://propiedash.com) or [andres@casanova-aleman.com](mailto:andres@casanova-aleman.com).
