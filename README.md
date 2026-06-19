@@ -40,11 +40,7 @@ Reads every new Google review and posts a reply in your brand voice — automati
 
 #### ❯ CONTRIBUTIONS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndresca/ndresca/output/contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndresca/ndresca/output/contrib.svg">
-  <img alt="Andrés's contribution graph, building itself square by square" src="https://raw.githubusercontent.com/ndresca/ndresca/output/contrib.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/ndresca/ndresca/output/skyline.svg" alt="A year of contributions rendered as a 3D isometric city, assembling itself tower by tower" width="100%">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 

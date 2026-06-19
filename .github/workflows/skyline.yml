@@ -1,4 +1,4 @@
-name: Generate Contribution Graph
+name: Generate Contribution Skyline
 
 on:
   schedule:
@@ -21,8 +21,8 @@ jobs:
         with:
           node-version: 20
 
-      - name: Build contribution graph
-        run: node scripts/contrib.mjs
+      - name: Build contribution skyline
+        run: node scripts/skyline.mjs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOGIN: ${{ github.repository_owner }}
