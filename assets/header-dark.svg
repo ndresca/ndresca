@@ -1,0 +1,6 @@
+<svg width="100%" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Andrés Casanova-Aleman — founder and engineer, building Propiedash">
+  <rect width="1200" height="240" rx="18" fill="#0A0A0A"/>
+  <rect x="72" y="74" width="9" height="92" rx="4.5" fill="#FF5A36"/>
+  <text x="104" y="130" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#F4F4F5">Andrés Casanova-Aleman</text>
+  <text x="106" y="174" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="0.2" fill="#8A8A8A">Founder &amp; engineer · building Propiedash</text>
+</svg>
