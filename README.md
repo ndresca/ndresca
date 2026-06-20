@@ -41,15 +41,3 @@ Reads every new Google review and posts a reply in your brand voice — automati
 #### ❯ CONTRIBUTIONS
 
 <img src="https://raw.githubusercontent.com/ndresca/ndresca/output/skyline.svg" alt="A year of contributions rendered as a 3D isometric city, assembling itself tower by tower" width="100%">
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-<!-- ────────────────────────────  ALWAYS  ────────────────────────────── -->
-
-#### ❯ ALWAYS
-
-AI-native operator. I run a small team like an orchestra — decompose, delegate, and ship every day. Always building, always learning, always raising the bar.
-
-#### ❯ LET'S BUILD
-
-If you're building something ambitious, find me at [propiedash.com](https://propiedash.com) or [andres@casanova-aleman.com](mailto:andres@casanova-aleman.com).
