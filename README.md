@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Andrés Casanova-Aleman">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Andrés Casanova-Aleman. Stay unreasonable.">
 </picture>
 
 <a href="https://propiedash.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-propiedash-dark.svg"><img src="./assets/card-propiedash-light.svg" alt="Propiedash, propiedash.com" width="49%"></picture></a>
