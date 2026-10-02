@@ -1,7 +1,7 @@
-<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Andrés Casanova-Aleman. Building Propiedash.">
+<svg width="1280" height="200" viewBox="0 0 1280 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Andrés Casanova-Aleman">
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif; }
+    .e { font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif; }
   </style>
-  <text x="0" y="150" font-size="92" font-weight="700" letter-spacing="-3" fill="#1D1D1F">Andrés Casanova-Aleman.</text>
-  <text x="2" y="226" font-size="40" font-weight="500" letter-spacing="-0.8" fill="#6E6E73">Building Propiedash.</text>
+  <text x="0" y="135" font-size="92" font-weight="700" letter-spacing="-3" fill="#1D1D1F">Andrés Casanova-Aleman <tspan class="e" font-size="80" letter-spacing="0">🥷🏽</tspan></text>
 </svg>

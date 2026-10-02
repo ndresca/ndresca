@@ -1,14 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Andrés Casanova-Aleman. Building Propiedash.">
+  <img src="./assets/hero-light.svg" width="100%" alt="Andrés Casanova-Aleman">
 </picture>
 
-<a href="https://propiedash.com"><img src="./assets/propiedash.png" alt="Propiedash" width="100%"></a>
+<a href="https://propiedash.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-propiedash-dark.svg"><img src="./assets/card-propiedash-light.svg" alt="Propiedash, propiedash.com" width="49%"></picture></a>
 
-### Propiedash
-Buy, rent, and list property in Venezuela.<br>
-<a href="https://propiedash.com">propiedash.com</a>
+**Co-founder of [Propiedash](https://propiedash.com).** Where Venezuela buys, sells and rents.
 
-<br>
-
-[X](https://x.com/CasanovaAleman) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/andres-casanova-aleman) &nbsp;&nbsp; [andres@casanova-aleman.com](mailto:andres@casanova-aleman.com)
+[LinkedIn](https://www.linkedin.com/in/andres-casanova-aleman) · [X](https://x.com/CasanovaAleman) · [Email](mailto:andres@casanova-aleman.com)
